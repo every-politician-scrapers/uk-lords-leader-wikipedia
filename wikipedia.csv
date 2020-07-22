@@ -1,0 +1,104 @@
+id,name,start_date,end_date,replaces,replaced_by
+Q332619,"Charles Spencer, 3rd Earl of Sunderland",1717-04,1718-03,,Q332603
+Q332603,"James Stanhope, 1st Earl Stanhope",1718-03,1721-02-05,Q332619,Q336529
+Q336529,"Charles Townshend, 2nd Viscount Townshend",1721-02,1730-05,Q332603,Q8018720
+Q8018720,"William Stanhope, 1st Earl of Harrington",1730-05,1742-02,Q336529,Q335274
+Q335274,"John Carteret, 2nd Earl Granville",1742-02-12,1744-11-24,Q8018720,Q8018720
+Q8018720,"William Stanhope, 1st Earl of Harrington",1744-11,1746-10,Q335274,Q332487
+Q332487,"Philip Stanhope, 4th Earl of Chesterfield",1746-10,1748-02,Q8018720,Q273809
+Q273809,"Thomas Pelham-Holles, 1st Duke of Newcastle",1748-02,1756-11-16,Q332487,Q238639
+Q238639,"William Cavendish, 4th Duke of Devonshire",1756-11-16,1757-06-25,Q273809,Q273809
+Q273809,"Thomas Pelham-Holles, 1st Duke of Newcastle",1757-07-02,1762-05-26,Q238639,Q337680
+Q337680,"Charles Wyndham, 2nd Earl of Egremont",1762-05,1763-08-21,Q273809,Q3760605
+Q3760605,"George Montagu-Dunk, 2nd Earl of Halifax",1763-08,1765-07,Q337680,Q378043
+Q378043,"Charles Watson-Wentworth, 2nd Marquess of Rockingham",1765-07-13,1766-07-30,Q3760605,Q312583
+Q312583,"Augustus FitzRoy, 3rd Duke of Grafton",1766,1770-01-28,Q378043,Q38308
+Q38308,"Thomas Thynne, 1st Marquess of Bath",1770-01,1770-12,Q312583,Q2099455
+Q2099455,"William Nassau de Zuylestein, 4th Earl of Rochford",1770-12,1775-11,Q38308,Q5723301
+Q5723301,"Henry Howard, 12th Earl of Suffolk",1775-11,1779-03-06,Q2099455,Q38308
+Q38308,"Thomas Thynne, 1st Marquess of Bath",1779-03,1779-11,Q5723301,Q1968514
+Q1968514,"David Murray, 2nd Earl of Mansfield",1779-11,1782-03,Q38308,Q312573
+Q312573,"William Petty, 2nd Earl of Shelburne",1782-03,1783-04,Q1968514,Q157208
+Q157208,"William Cavendish-Bentinck, 3rd Duke of Portland",1783-04-02,1783-12,Q312573,Q333744
+Q333744,"George Nugent-Temple-Grenville, 1st Marquess of Buckingham",1783-12,1783-12,Q157208,Q332533
+Q332533,"Thomas Townshend, 1st Viscount Sydney",1783-12,1789-06,Q333744,Q333862
+Q333862,"Francis Osborne, 5th Duke of Leeds",1789,1790,Q332533,Q312596
+Q312596,"William Grenville, 1st Baron Grenville",1790-11,1801-02,Q333862,Q333417
+Q333417,"Robert Hobart, 4th Earl of Buckinghamshire",1801-03,1801-10,Q312596,Q337864
+Q337864,"Thomas Pelham, 2nd Earl of Chichester",1801-10,1803-08,Q333417,Q312569
+Q312569,"Robert Jenkinson, 2nd Earl of Liverpool",1803-11,1806-02,Q337864,Q312596
+Q312596,"William Grenville, 1st Baron Grenville",1806-02-11,1807-03,Q312569,Q312569
+Q312569,"Robert Jenkinson, 2nd Earl of Liverpool",1807-03-25,1827-04,Q312596,Q312591
+Q312591,"F. J. Robinson, 1st Viscount Goderich",1827-04-30,1828-01,Q312569,Q131691
+Q131691,"Arthur Wellesley, 1st Duke of Wellington",1828-01,1830-11,Q312591,Q294662
+Q294662,"Charles Grey, 2nd Earl Grey",1830-11-22,1834-07-09,Q131691,Q312567
+Q312567,"William Lamb, 2nd Viscount Melbourne",1834-07-16,1834-11-14,Q294662,Q131691
+Q131691,"Arthur Wellesley, 1st Duke of Wellington",1834-11-17,1835-04-08,Q312567,Q312567
+Q312567,"William Lamb, 2nd Viscount Melbourne",1835-04-18,1841-08-30,Q131691,Q131691
+Q131691,"Arthur Wellesley, 1st Duke of Wellington",1841-09-03,1846-06-27,Q312567,Q332639
+Q332639,"Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne",1846-07-06,1852-02-21,Q131691,Q237829
+Q237829,"Edward Smith-Stanley, 14th Earl of Derby",1852-02-23,1852-12-17,Q332639,Q24631
+Q24631,"George Hamilton-Gordon, 4th Earl of Aberdeen",1852-12-19,1855-01-30,Q237829,Q334053
+Q334053,"Granville Leveson-Gower, 2nd Earl Granville",1855-02-08,1858-02-21,Q24631,Q237829
+Q237829,"Edward Smith-Stanley, 14th Earl of Derby",1858-02-21,1859-06-11,Q334053,Q334053
+Q334053,"Granville Leveson-Gower, 2nd Earl Granville",1859-06-18,1865-10-29,Q237829,Q157259
+Q157259,"John Russell, 1st Earl Russell",1865-10-29,1866-06-26,Q334053,Q237829
+Q237829,"Edward Smith-Stanley, 14th Earl of Derby",1866-06-28,1868-02-25,Q157259,Q321003
+Q321003,"James Harris, 3rd Earl of Malmesbury",1868-02-27,1868-12-01,Q237829,Q334053
+Q334053,"Granville Leveson-Gower, 2nd Earl Granville",1868-12-09,1874-02-17,Q321003,Q333488
+Q333488,"Charles Gordon-Lennox, 6th Duke of Richmond",1874-02-21,1876-08-21,Q334053,Q82006
+Q82006,"Benjamin Disraeli, 1st Earl of Beaconsfield",1876-08-21,1880-04-21,Q333488,Q334053
+Q334053,"Granville Leveson-Gower, 2nd Earl Granville",1880-04-28,1885-06-09,Q82006,Q243705
+Q243705,"Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",1885-06-23,1886-01-28,Q334053,Q334053
+Q334053,"Granville Leveson-Gower, 2nd Earl Granville",1886-02-06,1886-07-20,Q243705,Q243705
+Q243705,"Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",1886-07-25,1892-08-11,Q334053,Q335342
+Q335342,"John Wodehouse, 1st Earl of Kimberley",1892-08-18,1894-03-05,Q243705,Q244620
+Q244620,"Archibald Primrose, 5th Earl of Rosebery",1894-03-05,1895-06-21,Q335342,Q243705
+Q243705,"Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",1895-06-25,1902-07-11,Q244620,Q334063
+Q334063,"Spencer Cavendish, 8th Duke of Devonshire",1902-07-12,1903-10-13,Q243705,Q337386
+Q337386,"Henry Petty-Fitzmaurice, 5th Marquess of Lansdowne",1903-10-13,1905-12-04,Q334063,Q333111
+Q333111,"George Robinson, 1st Marquess of Ripon",1905-12-10,1908-04-14,Q337386,Q336421
+Q336421,"Robert Crewe-Milnes, 1st Marquess of Crewe",1908-04-14,1916-12-10,Q333111,Q271878
+Q271878,"George Curzon, 1st Marquess Curzon of Kedleston",1916-12-10,1924-01-22,Q336421,Q334078
+Q334078,"Richard Haldane, 1st Viscount Haldane",1924-01-22,1924-11-03,Q271878,Q271878
+Q271878,"George Curzon, 1st Marquess Curzon of Kedleston",1924-11-03,1925-03-20,Q334078,Q4381482
+Q4381482,"James Gascoyne-Cecil, 4th Marquess of Salisbury",1925-04-27,1929-06-04,Q271878,Q337704
+Q337704,"Charles Cripps, 1st Baron Parmoor",1929-06-07,1931-08-24,Q4381482,Q336036
+Q336036,"Rufus Isaacs, 1st Marquess of Reading",1931-08-24,1931-11-05,Q337704,Q332706
+Q332706,"Douglas Hogg, 1st Viscount Hailsham",1931-11-05,1935-06-07,Q336036,Q333368
+Q333368,"Charles Vane-Tempest-Stewart, 7th Marquess of Londonderry",1935-06-07,1935-11-22,Q332706,Q333426
+Q333426,"Edward Wood, 1st Viscount Halifax",1935-11-22,1938-02-21,Q333368,Q6143495
+Q6143495,"James Stanhope, 7th Earl Stanhope",1938-02-21,1940-05-14,Q333426,Q333019
+Q333019,"Thomas Inskip, 1st Viscount Caldecote",1940-05-14,1940-10-03,Q6143495,Q333426
+Q333426,"Edward Wood, 1st Viscount Halifax",1940-10-03,1940-12-22,Q333019,Q337086
+Q337086,"George Lloyd, 1st Baron Lloyd",1940-12-22,1941-02-04,Q333426,Q332475
+Q332475,"Walter Guinness, 1st Baron Moyne",1941-02-08,1942-02-21,Q337086,Q333205
+Q333205,"Robert Gascoyne-Cecil, 5th Marquess of Salisbury",1942-02-21,1945-07-26,Q332475,Q334088
+Q334088,"Christopher Addison, 1st Viscount Addison",1945-08-03,1951-10-26,Q333205,Q333205
+Q333205,"Robert Gascoyne-Cecil, 5th Marquess of Salisbury",1951-10-28,1957-03-29,Q334088,Q128976
+Q128976,"Alec Douglas-Home, 14th Earl of Home",1957-03-29,1960-07-27,Q333205,Q175366
+Q175366,"Quintin Hogg, Baron Hailsham of St Marylebone",1960-07-27,1963-10-20,Q128976,Q335038
+Q335038,"Peter Carington, 6th Baron Carrington",1963-10-20,1964-10-16,Q175366,Q2295962
+Q2295962,"Frank Pakenham, 7th Earl of Longford",1964-10-18,1968-01-16,Q335038,Q332818
+Q332818,"Edward Shackleton, Baron Shackleton",1968-01-16,1970-06-19,Q2295962,Q82278
+Q82278,"George Jellicoe, 2nd Earl Jellicoe",1970-06-20,1973-05-23,Q332818,Q337047
+Q337047,"David Hennessy, 3rd Baron Windlesham",1973-06-05,1974-03-04,Q82278,Q1887053
+Q1887053,"Malcolm Shepherd, 2nd Baron Shepherd",1974-03-07,1976-09-10,Q337047,Q333371
+Q333371,"Fred Peart, Baron Peart",1976-09-10,1979-05-04,Q1887053,Q336050
+Q336050,Christopher Soames,1979-05-05,1981-09-14,Q333371,Q335926
+Q335926,"Janet Young, Baroness Young",1981-09-14,1983-06-11,Q336050,Q333963
+Q333963,"William Whitelaw, 1st Viscount Whitelaw",1983-06-11,1988-01-10,Q335926,Q335713
+Q335713,"John Ganzoni, 2nd Baron Belstead",1988-01-10,1990-11-28,Q333963,Q334565
+Q334565,"David Waddington, Baron Waddington",1990-11-28,1992-04-11,Q335713,Q334298
+Q334298,"John Wakeham, Baron Wakeham",1992-04-11,1994-07-20,Q334565,Q335589
+Q335589,"Robert Gascoyne-Cecil, 7th Marquess of Salisbury",1994-07-20,1997-05-02,Q334298,Q333309
+Q333309,"Ivor Richard, Baron Richard",1997-05-02,1998-07-27,Q335589,Q336162
+Q336162,"Margaret Jay, Baroness Jay of Paddington",1998-07-27,2001-06-08,Q333309,Q325417
+Q325417,"Gareth Williams, Baron Williams of Mostyn",2001-06-08,2003-09-20,Q336162,Q335698
+Q335698,"Valerie Amos, Baroness Amos",2003-10-06,2007-06-27,Q325417,Q105667
+Q105667,Catherine Ashton,2007-06-27,2008-10-02,Q335698,Q336236
+Q336236,"Janet Royall, Baroness Royall of Blaisdon",2008-10-02,2010-05-11,Q105667,Q335576
+Q335576,"Thomas Galbraith, 2nd Baron Strathclyde",2010-05-12,2013-01-07,Q336236,Q1703194
+Q1703194,"Jonathan Hill, Baron Hill of Oareford",2013-01-07,2014-07-15,Q335576,Q2435579
+Q2435579,"Tina Stowell, Baroness Stowell of Beeston",2014-07-15,2016-07-14,Q1703194,Q18210190
+Q18210190,"Natalie Evans, Baroness Evans of Bowes Park",2016-07-14,,Q2435579,
