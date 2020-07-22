@@ -26,6 +26,37 @@ class ListPage < Scraped::HTML
   end
 end
 
+class PartialDate
+  def initialize(str)
+    @str = str.tidy
+  end
+
+  def to_s
+    # There must be a nicer way to do this
+    shorttext.split('-').map { |num| num.rjust(2, "0") }.join('-')
+  end
+
+  private
+
+  attr_reader :str
+
+  def parts
+    str.split(' ').reverse
+  end
+
+  def longtext
+    parts.join('-')
+  end
+
+  def shorttext
+    longtext.gsub(MONTHS_RE) { |name| MONTHS.find_index(name) }
+  end
+
+  MONTHS = %w(NULL January February March April May June July August September October November December)
+  MONTHS_RE = Regexp.new(MONTHS.join('|'))
+end
+
+
 # Each officeholder in the list
 class HolderItem < Scraped::HTML
   field :id do
@@ -37,13 +68,13 @@ class HolderItem < Scraped::HTML
   end
 
   field :start_date do
-    Date.parse(start_text) if start_text[/\d+ \w+ \d{4}/]
+    PartialDate.new(start_text).to_s
   end
 
   field :end_date do
     return if end_text == 'Incumbent'
 
-    Date.parse(end_text) if end_text[/\d+ \w+ \d{4}/]
+    PartialDate.new(end_text).to_s
   end
 
   field :replaces do
@@ -53,7 +84,7 @@ class HolderItem < Scraped::HTML
   end
 
   def empty?
-    name.to_s.empty? || (start_date.to_s.empty? && end_date.to_s.empty?)
+    name.to_s.empty?
   end
 
   private
@@ -63,15 +94,15 @@ class HolderItem < Scraped::HTML
   end
 
   def start_text
-    start_date_cell.text.tidy
+    start_date_cell.children.map(&:text).join(" ").tidy
   end
 
   def end_text
-    end_date_cell.text.tidy
+    end_date_cell.children.map(&:text).join(" ").tidy
   end
 
   def name_cell
-    tds[1]
+    tds[2]
   end
 
   def start_date_cell
