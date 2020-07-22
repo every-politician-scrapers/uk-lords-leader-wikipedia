@@ -1,0 +1,616 @@
+[
+  {
+    "item": {
+      "value": "Q332475",
+      "label": "Walter Guinness, 1st Baron Moyne"
+    },
+    "statement": "Q332475$55339FB3-D939-4589-A815-2A9F2BC296DA"
+  },
+  {
+    "item": {
+      "value": "Q335713",
+      "label": "John Ganzoni, 2nd Baron Belstead"
+    },
+    "statement": "Q335713$5C0E37F8-EF33-49A1-8C92-4A08DFB60024"
+  },
+  {
+    "item": {
+      "value": "Q294651",
+      "label": "John Stuart, 3rd Earl of Bute"
+    },
+    "statement": "Q294651$AD1E8602-64A7-4E8A-9308-B873C693F99E",
+    "start": "1762-05-26T00:00:00Z",
+    "end": "1763-04-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q312573",
+      "label": "William Petty, 2nd Earl of Shelburne"
+    },
+    "replaces": {
+      "value": "Q378043",
+      "label": "Charles Watson-Wentworth, 2nd Marquess of Rockingham"
+    },
+    "replacedBy": {
+      "value": "Q157208",
+      "label": "William Cavendish-Bentinck, 3rd Duke of Portland"
+    },
+    "statement": "Q312573$65F236D2-3388-43CB-AEBA-33C7F094F5F9",
+    "start": "1782-07-04T00:00:00Z",
+    "end": "1783-04-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332533",
+      "label": "Thomas Townshend, 1st Viscount Sydney"
+    },
+    "replaces": {
+      "value": "Q333744",
+      "label": "George Nugent-Temple-Grenville, 1st Marquess of Buckingham"
+    },
+    "replacedBy": {
+      "value": "Q333862",
+      "label": "Francis Osborne, 5th Duke of Leeds"
+    },
+    "statement": "Q332533$268DE5B9-42C2-41C5-8644-DF86DA2D7FE5",
+    "start": "1783-12-01T00:00:00Z",
+    "end": "1789-06-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333862",
+      "label": "Francis Osborne, 5th Duke of Leeds"
+    },
+    "replaces": {
+      "value": "Q332533",
+      "label": "Thomas Townshend, 1st Viscount Sydney"
+    },
+    "replacedBy": {
+      "value": "Q312596",
+      "label": "William Wyndham Grenville, 1st Baron Grenville"
+    },
+    "statement": "Q333862$26A99077-2482-4E7D-9008-4585C44E6085",
+    "start": "1789-01-01T00:00:00Z",
+    "end": "1790-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q312569",
+      "label": "Robert Jenkinson, 2nd Earl of Liverpool"
+    },
+    "replaces": {
+      "value": "Q312596",
+      "label": "William Wyndham Grenville, 1st Baron Grenville"
+    },
+    "replacedBy": {
+      "value": "Q312591",
+      "label": "Frederick John Robinson, 1st Viscount Goderich"
+    },
+    "statement": "Q312569$ECC83310-9647-4BC5-95EB-03A5DCCCC0AD",
+    "start": "1807-03-25T00:00:00Z",
+    "end": "1827-04-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q294662",
+      "label": "Charles Grey, 2nd Earl Grey"
+    },
+    "replaces": {
+      "value": "Q131691",
+      "label": "Arthur Wellesley, 1st Duke of Wellington"
+    },
+    "replacedBy": {
+      "value": "Q312567",
+      "label": "William Lamb, 2nd Viscount Melbourne"
+    },
+    "statement": "Q294662$5DD75708-D34B-4201-989D-34A99FF52724",
+    "start": "1830-11-22T00:00:00Z",
+    "end": "1834-07-09T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q131691",
+      "label": "Arthur Wellesley, 1st Duke of Wellington"
+    },
+    "replaces": {
+      "value": "Q312567",
+      "label": "William Lamb, 2nd Viscount Melbourne"
+    },
+    "replacedBy": {
+      "value": "Q332639",
+      "label": "Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne"
+    },
+    "statement": "Q131691$4A1C7F1C-379A-46E3-BCB8-AC26782B39F2",
+    "start": "1841-09-03T00:00:00Z",
+    "end": "1846-06-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333111",
+      "label": "George Robinson, 1st Marquess of Ripon"
+    },
+    "replaces": {
+      "value": "Q337386",
+      "label": "Henry Petty-Fitzmaurice, 5th Marquess of Lansdowne"
+    },
+    "replacedBy": {
+      "value": "Q336421",
+      "label": "Robert Crewe-Milnes, 1st Marquess of Crewe"
+    },
+    "statement": "Q333111$74845D5E-AC5C-4369-892F-4FF2A245D722",
+    "start": "1905-01-01T00:00:00Z",
+    "end": "1908-01-01T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q336421",
+      "label": "Robert Crewe-Milnes, 1st Marquess of Crewe"
+    },
+    "replaces": {
+      "value": "Q333111",
+      "label": "George Robinson, 1st Marquess of Ripon"
+    },
+    "replacedBy": {
+      "value": "Q271878",
+      "label": "George Curzon, 1st Marquess Curzon of Kedleston"
+    },
+    "statement": "Q336421$3229B5D4-4F0A-439E-97A8-43218211C5CA",
+    "start": "1908-04-14T00:00:00Z",
+    "end": "1916-12-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334078",
+      "label": "Richard Haldane, 1st Viscount Haldane"
+    },
+    "statement": "q334078$08d7ad83-4424-ae5f-6c98-bd4aecd4c1e2",
+    "start": "1924-01-22T00:00:00Z",
+    "end": "1924-11-03T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q271878",
+      "label": "George Curzon, 1st Marquess Curzon of Kedleston"
+    },
+    "replaces": {
+      "value": "Q334078",
+      "label": "Richard Haldane, 1st Viscount Haldane"
+    },
+    "replacedBy": {
+      "value": "Q4381482",
+      "label": "James Gascoyne-Cecil, 4th Marquess of Salisbury"
+    },
+    "statement": "Q271878$FABD751D-E29D-4A74-8E84-E42741C87753",
+    "start": "1924-11-03T00:00:00Z",
+    "end": "1925-03-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q4381482",
+      "label": "James Gascoyne-Cecil, 4th Marquess of Salisbury"
+    },
+    "replaces": {
+      "value": "Q271878",
+      "label": "George Curzon, 1st Marquess Curzon of Kedleston"
+    },
+    "replacedBy": {
+      "value": "Q337704",
+      "label": "Charles Cripps, 1st Baron Parmoor"
+    },
+    "statement": "Q4381482$23653BA1-095C-4E19-AAF0-37B11D03186C",
+    "start": "1925-04-27T00:00:00Z",
+    "end": "1929-06-04T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332706",
+      "label": "Douglas Hogg, 1st Viscount Hailsham"
+    },
+    "replaces": {
+      "value": "Q336036",
+      "label": "Rufus Isaacs, 1st Marquess of Reading"
+    },
+    "replacedBy": {
+      "value": "Q333368",
+      "label": "Charles Vane-Tempest-Stewart, 7th Marquess of Londonderry"
+    },
+    "statement": "Q332706$A07954F9-4563-47BE-AD4F-BA72850777F4",
+    "start": "1931-11-05T00:00:00Z",
+    "end": "1935-06-07T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333426",
+      "label": "E. F. L. Wood, 1st Earl of Halifax"
+    },
+    "replaces": {
+      "value": "Q333368",
+      "label": "Charles Vane-Tempest-Stewart, 7th Marquess of Londonderry"
+    },
+    "replacedBy": {
+      "value": "Q6143495",
+      "label": "James Stanhope, 7th Earl Stanhope"
+    },
+    "statement": "Q333426$8DA6A3D9-CDC7-4B8F-BF38-8B41A17D240E",
+    "start": "1935-11-22T00:00:00Z",
+    "end": "1938-02-21T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333205",
+      "label": "Robert Gascoyne-Cecil, 5th Marquess of Salisbury"
+    },
+    "replaces": {
+      "value": "Q332475",
+      "label": "Walter Guinness, 1st Baron Moyne"
+    },
+    "replacedBy": {
+      "value": "Q334088",
+      "label": "Christopher Addison, 1st Viscount Addison"
+    },
+    "statement": "Q333205$1C1B5363-A659-4E9D-87BA-B0F5A1FD11FF",
+    "start": "1942-02-21T00:00:00Z",
+    "end": "1945-07-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334088",
+      "label": "Christopher Addison, 1st Viscount Addison"
+    },
+    "replaces": {
+      "value": "Q333205",
+      "label": "Robert Gascoyne-Cecil, 5th Marquess of Salisbury"
+    },
+    "replacedBy": {
+      "value": "Q333205",
+      "label": "Robert Gascoyne-Cecil, 5th Marquess of Salisbury"
+    },
+    "statement": "Q334088$7F343967-DCE1-4F7E-82A3-8B526885F599",
+    "start": "1945-08-03T00:00:00Z",
+    "end": "1951-10-26T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q128976",
+      "label": "Alec Douglas-Home"
+    },
+    "statement": "Q128976$FF78E9F0-9F3E-4AA4-AD70-4D5318844476",
+    "start": "1957-03-29T00:00:00Z",
+    "end": "1960-07-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q175366",
+      "label": "Quintin Hogg, Baron Hailsham of St Marylebone"
+    },
+    "replaces": {
+      "value": "Q128976",
+      "label": "Alec Douglas-Home"
+    },
+    "replacedBy": {
+      "value": "Q335038",
+      "label": "Peter Carington, 6th Baron Carrington"
+    },
+    "statement": "Q175366$ACC3799A-FD27-4B48-8F25-48EEE9AF3A65",
+    "start": "1960-07-27T00:00:00Z",
+    "end": "1963-10-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q335038",
+      "label": "Peter Carington, 6th Baron Carrington"
+    },
+    "replaces": {
+      "value": "Q175366",
+      "label": "Quintin Hogg, Baron Hailsham of St Marylebone"
+    },
+    "replacedBy": {
+      "value": "Q2295962",
+      "label": "Frank Pakenham, 7th Earl of Longford"
+    },
+    "statement": "Q335038$C714CA2F-4ED8-4679-A943-5F4CE89F7CD8",
+    "start": "1963-10-20T00:00:00Z",
+    "end": "1964-10-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q2295962",
+      "label": "Frank Pakenham, 7th Earl of Longford"
+    },
+    "replaces": {
+      "value": "Q335038",
+      "label": "Peter Carington, 6th Baron Carrington"
+    },
+    "replacedBy": {
+      "value": "Q332818",
+      "label": "Edward Shackleton, Baron Shackleton"
+    },
+    "statement": "Q2295962$8C0293E1-03B1-4E75-A2F5-04BDF9E8AEA3",
+    "start": "1964-10-18T00:00:00Z",
+    "end": "1968-01-16T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q332818",
+      "label": "Edward Shackleton, Baron Shackleton"
+    },
+    "replaces": {
+      "value": "Q2295962",
+      "label": "Frank Pakenham, 7th Earl of Longford"
+    },
+    "replacedBy": {
+      "value": "Q82278",
+      "label": "George Jellicoe, 2nd Earl Jellicoe"
+    },
+    "statement": "Q332818$80ed7713-4469-4210-b271-6c1bfda44e98",
+    "start": "1968-01-16T00:00:00Z",
+    "end": "1970-06-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q336050",
+      "label": "Christopher Soames"
+    },
+    "replaces": {
+      "value": "Q333371",
+      "label": "Fred Peart, Baron Peart"
+    },
+    "replacedBy": {
+      "value": "Q335926",
+      "label": "Janet Young, Baroness Young"
+    },
+    "statement": "Q336050$25483EC0-3441-4F16-8AC1-06DCB9F7351B",
+    "start": "1979-05-05T00:00:00Z",
+    "end": "1981-09-14T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q335926",
+      "label": "Janet Young, Baroness Young"
+    },
+    "replaces": {
+      "value": "Q336050",
+      "label": "Christopher Soames"
+    },
+    "replacedBy": {
+      "value": "Q333963",
+      "label": "Willie Whitelaw"
+    },
+    "statement": "Q335926$483025C2-4146-4F77-826C-DE5C3657809B",
+    "start": "1981-09-14T00:00:00Z",
+    "end": "1983-06-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333963",
+      "label": "Willie Whitelaw"
+    },
+    "replaces": {
+      "value": "Q335926",
+      "label": "Janet Young, Baroness Young"
+    },
+    "replacedBy": {
+      "value": "Q335713",
+      "label": "John Ganzoni, 2nd Baron Belstead"
+    },
+    "statement": "Q333963$FA40E8B8-02BD-4D91-BD47-B59ED15CE586",
+    "start": "1983-06-11T00:00:00Z",
+    "end": "1988-01-10T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334565",
+      "label": "David Waddington, Baron Waddington"
+    },
+    "replaces": {
+      "value": "Q335713",
+      "label": "John Ganzoni, 2nd Baron Belstead"
+    },
+    "replacedBy": {
+      "value": "Q334298",
+      "label": "John Wakeham, Baron Wakeham"
+    },
+    "statement": "Q334565$A7CE089B-795D-4E51-96FB-EECDDEB35709",
+    "start": "1990-11-28T00:00:00Z",
+    "end": "1992-04-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q334298",
+      "label": "John Wakeham, Baron Wakeham"
+    },
+    "replaces": {
+      "value": "Q334565",
+      "label": "David Waddington, Baron Waddington"
+    },
+    "replacedBy": {
+      "value": "Q335589",
+      "label": "Robert Gascoyne-Cecil, 7th Marquess of Salisbury"
+    },
+    "statement": "Q334298$F27E57EF-29BB-42BF-9FFE-23B659A9035B",
+    "start": "1992-04-11T00:00:00Z",
+    "end": "1994-07-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q335589",
+      "label": "Robert Gascoyne-Cecil, 7th Marquess of Salisbury"
+    },
+    "replaces": {
+      "value": "Q334298",
+      "label": "John Wakeham, Baron Wakeham"
+    },
+    "replacedBy": {
+      "value": "Q333309",
+      "label": "Ivor Richard, Baron Richard"
+    },
+    "statement": "Q335589$8B97ACA9-326B-4BEE-B989-EEC9703C76BF",
+    "start": "1994-07-20T00:00:00Z",
+    "end": "1997-05-02T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333309",
+      "label": "Ivor Richard, Baron Richard"
+    },
+    "replaces": {
+      "value": "Q335589",
+      "label": "Robert Gascoyne-Cecil, 7th Marquess of Salisbury"
+    },
+    "replacedBy": {
+      "value": "Q336162",
+      "label": "Margaret Jay, Baroness Jay of Paddington"
+    },
+    "statement": "Q333309$B825CCEE-6BA5-4160-B536-2EE32BB9754B",
+    "start": "1997-05-02T00:00:00Z",
+    "end": "1998-07-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q336162",
+      "label": "Margaret Jay, Baroness Jay of Paddington"
+    },
+    "replaces": {
+      "value": "Q333309",
+      "label": "Ivor Richard, Baron Richard"
+    },
+    "replacedBy": {
+      "value": "Q325417",
+      "label": "Gareth Williams, Baron Williams of Mostyn"
+    },
+    "statement": "Q336162$75E3B286-584E-4118-BA73-7370F7B42162",
+    "start": "1998-07-27T00:00:00Z",
+    "end": "2001-06-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q325417",
+      "label": "Gareth Williams, Baron Williams of Mostyn"
+    },
+    "replaces": {
+      "value": "Q336162",
+      "label": "Margaret Jay, Baroness Jay of Paddington"
+    },
+    "replacedBy": {
+      "value": "Q335698",
+      "label": "Valerie Amos, Baroness Amos"
+    },
+    "statement": "Q325417$EFC08A13-2482-4ECE-9AB2-2212C7F4C5A1",
+    "start": "2001-06-08T00:00:00Z",
+    "end": "2003-09-20T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q335698",
+      "label": "Valerie Amos, Baroness Amos"
+    },
+    "replaces": {
+      "value": "Q325417",
+      "label": "Gareth Williams, Baron Williams of Mostyn"
+    },
+    "replacedBy": {
+      "value": "Q105667",
+      "label": "Catherine Ashton"
+    },
+    "statement": "Q335698$CCC311C1-0942-4912-B7EE-6A29AF9AB463",
+    "start": "2003-10-06T00:00:00Z",
+    "end": "2007-06-27T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q105667",
+      "label": "Catherine Ashton"
+    },
+    "replaces": {
+      "value": "Q335698",
+      "label": "Valerie Amos, Baroness Amos"
+    },
+    "replacedBy": {
+      "value": "Q336236",
+      "label": "Janet Royall, Baroness Royall of Blaisdon"
+    },
+    "statement": "Q105667$7B0ADD68-6253-4236-BD9C-7941D9040435",
+    "start": "2007-06-27T00:00:00Z",
+    "end": "2008-10-03T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q336236",
+      "label": "Janet Royall, Baroness Royall of Blaisdon"
+    },
+    "replaces": {
+      "value": "Q105667",
+      "label": "Catherine Ashton"
+    },
+    "replacedBy": {
+      "value": "Q335576",
+      "label": "Thomas Galbraith, 2nd Baron Strathclyde"
+    },
+    "statement": "Q336236$30ce43f1-4f7d-d63e-fca0-e1ea8931c2ce",
+    "start": "2008-10-03T00:00:00Z",
+    "end": "2010-05-11T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q335576",
+      "label": "Thomas Galbraith, 2nd Baron Strathclyde"
+    },
+    "replaces": {
+      "value": "Q336236",
+      "label": "Janet Royall, Baroness Royall of Blaisdon"
+    },
+    "replacedBy": {
+      "value": "Q1703194",
+      "label": "Jonathan Hill, Baron Hill of Oareford"
+    },
+    "statement": "Q335576$7DECF8E2-FC7F-4ADD-A171-5C0345E3CCB7",
+    "start": "2010-05-12T00:00:00Z",
+    "end": "2013-01-07T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q1703194",
+      "label": "Jonathan Hill, Baron Hill of Oareford"
+    },
+    "replaces": {
+      "value": "Q335576",
+      "label": "Thomas Galbraith, 2nd Baron Strathclyde"
+    },
+    "replacedBy": {
+      "value": "Q2435579",
+      "label": "Tina Stowell, Baroness Stowell of Beeston"
+    },
+    "statement": "Q1703194$b01cc095-47c8-10e1-eefc-76305ad2c886",
+    "start": "2013-01-07T00:00:00Z",
+    "end": "2014-07-15T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q333807",
+      "label": "Jim Wallace, Baron Wallace of Tankerness"
+    },
+    "replaces": {
+      "value": "Q2426067",
+      "label": "Tom McNally, Baron McNally"
+    },
+    "replacedBy": {
+      "value": "Q977967",
+      "label": "Frederick Curzon, 7th Earl Howe"
+    },
+    "statement": "Q333807$5DB55E77-B777-45B4-9926-C1F0577D0CE4",
+    "start": "2013-10-15T00:00:00Z",
+    "end": "2015-05-08T00:00:00Z"
+  },
+  {
+    "item": {
+      "value": "Q18210190",
+      "label": "Natalie Evans, Baroness Evans"
+    },
+    "replaces": {
+      "value": "Q2435579",
+      "label": "Tina Stowell, Baroness Stowell of Beeston"
+    },
+    "statement": "Q18210190$5abda2e8-4dbd-cf9e-78c9-afc9b987e513",
+    "start": "2016-07-14T00:00:00Z"
+  }
+]
